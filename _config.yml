@@ -1,0 +1,10 @@
+# Site settings
+title: Darien J Morrow
+tag_text: darien.fyi
+description: Darien Morrow's personal landing page.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
