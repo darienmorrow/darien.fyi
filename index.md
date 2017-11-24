@@ -11,7 +11,7 @@ Thanks for stopping by!
 - [ORCID](https://orcid.org/0000-0002-8922-8049)
 - [Google Scholar](https://scholar.google.com/citations?user=a2ir-jsAAAAJ&hl=en)
 - [Open Science Framework](https://osf.io/bcaer)
-- [UW Chemistry Departent](https://www.chem.wisc.edu/users/dmorrow3)
+- [UW Chemistry Department](https://www.chem.wisc.edu/users/dmorrow3)
 - [Wright Group](https://wright.chem.wisc.edu/content/darien-morrow)
 - [Linkedin](https://www.linkedin.com/in/darien-morrow-853559a1)
 
